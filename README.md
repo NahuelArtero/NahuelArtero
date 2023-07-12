@@ -33,6 +33,10 @@
     <img src="https://img.shields.io/badge/react-1572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />
   </a>
   &nbsp;
+  <a href='https://tailwindcss.com/'>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+  &nbsp;
     <a href='https://nextjs.org/'>
     <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
