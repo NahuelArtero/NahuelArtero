@@ -1,5 +1,5 @@
 ### Hi there 👋
-# <p align="center"> :rocket: ABOUT ME <br>[![](https://visitcount.itsvg.in/api?id=NahuelArtero&color=3)</p>
+# <p align="center"> :rocket: ABOUT ME <br>[![](https://visitcount.itsvg.in/api?id=NahuelArtero&label=Profile%20Views&color=3&icon=3&pretty=false)](https://visitcount.itsvg.in)</p>
 <p align="center">I'm constantly seeking personal and professional growth, pushing myself to surpass my limits and embrace new challenges. I firmly believe that personal success is intricately tied to effective teamwork. Therefore, I value a workplace that fosters a supportive and collaborative atmosphere, where teamwork is not just encouraged but deeply ingrained as a fundamental principle.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/arteronahuel/" target"blank"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
